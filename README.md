@@ -1,5 +1,5 @@
 <img src="AKARSH.png" alt="profile banner">
-# 🦥 Akarsh Balachandran
+ <h3>🦥 Akarsh Balachandran</h3>
 
 **`Digital Developer`**
 <hr>
